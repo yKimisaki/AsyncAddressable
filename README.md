@@ -3,6 +3,8 @@ AddressablesをUniTaskのLazyPromiseでよしなに
 
 # LazyUniTask
 
+https://gist.github.com/yKimisaki/5f7d2846ba21fd9bfb5358de6e5f0ed8
+
 ```
 // この段階では読み込み処理は走らない
 var unitychan = LazyUniTask.LoadAddressables<GameObject>("Assets/UnityChan/Prefabs/unitychan.prefab");
