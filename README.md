@@ -16,4 +16,8 @@ var prefab = await unitychan;
 var prefab2 = await unitychan;
 ```
 
+# LICENSE
+
 ![light_frame](https://user-images.githubusercontent.com/1702680/43435071-526b7486-94b9-11e8-8f7c-0138a0d8f8e7.png)
+
+© Unity Technologies Japan/UCL 
