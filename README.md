@@ -15,3 +15,5 @@ var prefab = await unitychan;
 // 2回目以降は同じAwaiterを使いまわすので、完了していれば即結果がもらえる
 var prefab2 = await unitychan;
 ```
+
+![light_frame](https://user-images.githubusercontent.com/1702680/43435071-526b7486-94b9-11e8-8f7c-0138a0d8f8e7.png)
